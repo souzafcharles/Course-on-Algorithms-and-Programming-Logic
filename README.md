@@ -13,7 +13,7 @@
 
 ## Course Session
 
-- Session A1. [Introduction]()
+- Session A1. [Introduction](https://github.com/souzafcharles/Course-on-Algorithms-and-Programming-Logic/tree/master/Session_A1_Introduction)
 - Session B2. [Relational Operators and Decision Structure]
 
 
