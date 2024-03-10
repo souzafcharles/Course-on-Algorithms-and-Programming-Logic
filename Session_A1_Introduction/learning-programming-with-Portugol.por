@@ -5,10 +5,8 @@ Example adapted by: Charles Fernandes de Souza
 Date: March 09, 2024
 */
 
-
 programa
 {
-	
 	funcao inicio()
 	{
 		inteiro number01
@@ -26,6 +24,7 @@ programa
 		}
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
