@@ -7,7 +7,6 @@ Date: March 10, 2024
 
 programa
 {
-	
 	funcao inicio()
 	{
 		escreva("\n\n\tHello. Welcome to our course on Algorithms and Programming Logic.\n\n")
