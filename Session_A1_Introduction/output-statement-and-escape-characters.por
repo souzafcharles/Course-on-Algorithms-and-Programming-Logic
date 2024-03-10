@@ -9,7 +9,7 @@ programa
 {
 	funcao inicio()
 	{
-		escreva("\n\n\tHello. Welcome to our course on Algorithms and Programming Logic.\n\n")
+		escreva("\n\n\tHello, welcome to our course on Algorithms and Programming Logic!\n\n")
 	}
 }
 
