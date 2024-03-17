@@ -14,7 +14,8 @@ programa
 		caracter letter01 = 'A'
 		cadeia word01 = "Algorithms"
 		logico answer01 = verdadeiro
-
+		//vazio value01
+	
 		escreva("Variables and primitive data types: ")
 		escreva("\nInteiro: ", number01)
 		escreva("\nReal: ", number02)
@@ -23,12 +24,13 @@ programa
 		escreva("\nLógico: ", answer01)
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 584; 
+ * @POSICAO-CURSOR = 372; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
