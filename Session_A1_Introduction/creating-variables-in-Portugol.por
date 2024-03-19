@@ -1,3 +1,9 @@
+/**
+Course title: Course on Algorithms and Programming Logic
+Instructor: Prof. MSc. Wagner Gaspar - wagnergaspar.com
+Example adapted by: Charles Fernandes de Souza
+Date: March 18, 2024
+*/
 programa {
     
 	funcao inicio() {
@@ -17,11 +23,8 @@ programa {
 	    escreva("My age is: ", age1, "!")
 	    escreva("\nBut I feel like I'm " ,age2, " because of the back pain =D")
 	    escreva("\nMy gender is: ", gender2)
-	    escreva("\nMy abbreviated gender is: ", gender1)
-	    
-	    
+	    escreva("\nMy abbreviated gender is: ", gender1)  
 	}
-	
 }
 /* $$$ Portugol Studio $$$ 
  * 
