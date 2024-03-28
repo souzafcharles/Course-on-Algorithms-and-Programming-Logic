@@ -1,3 +1,9 @@
+/**
+Course title: Course on Algorithms and Programming Logic
+Instructor: Prof. MSc. Wagner Gaspar - wagnergaspar.com
+Example adapted by: Charles Fernandes de Souza
+Date: March 27, 2024
+*/
 programa{
 
   funcao inicio(){
